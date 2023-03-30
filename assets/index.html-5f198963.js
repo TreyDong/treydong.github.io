@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as n,Y as _}from"./framework-e3ab7523.js";const c={},o=_("p",null,"此页记录Java",-1),s=[o];function a(r,l){return t(),n("div",null,s)}const i=e(c,[["render",a],["__file","index.html.vue"]]);export{i as default};
