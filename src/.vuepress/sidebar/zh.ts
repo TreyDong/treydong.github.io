@@ -12,28 +12,6 @@ export const zhSidebar = sidebar({
       prefix: "/",
       children: "structure",
     },
-    {
-      text: "Java框架",
-      icon: "note",
-      prefix: "/",
-      children: [
-        {
-          text: "Spring",
-          icon: "note",
-          prefix: "spring",
-          children: "structure",
-        },
-        {
-          text: "SpringMVC",
-          icon: "note",
-          prefix: "springmvc",
-          children: "structure",
-        }
-      ]
-    },
-    
-    
-
     // "slides",
   ],
 
