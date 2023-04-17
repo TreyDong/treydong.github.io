@@ -2,7 +2,6 @@ import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
   "/": [
-    // "slides",
   ],
   "/java/": [
     {
@@ -20,9 +19,12 @@ export const zhSidebar = sidebar({
         "spring/SpringBoot",
         "spring/SpringMVC",
       ]
-    },
-
-    // "slides",
-  ],
+    }],
+"/tester/": "structure",
+"/middleware/": "structure",
+"/database/": "structure",
+"/python/": "structure",
+  
+ 
 
 });
