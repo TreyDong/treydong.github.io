@@ -10,6 +10,8 @@ export default hopeTheme({
     url: "https://TreyDong.github.io",
   },
 
+  favicon:"/favicon.ico",
+
   iconAssets: "iconfont",
 
   logo: "/logo.svg",
