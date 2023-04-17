@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as o,Y as n}from"./framework-b947aea2.js";const _={},c=n("p",null,"此页记录JavaSpring",-1),r=[c];function s(a,l){return t(),o("div",null,r)}const p=e(_,[["render",s],["__file","SpringBoot.html.vue"]]);export{p as default};
